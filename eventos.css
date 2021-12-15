@@ -1,0 +1,27 @@
+.sessao2 {
+  margin-top: 0px;
+  color: white;
+  gap: 30px;
+  font-size: 1.5rem;
+}
+
+.eventos {
+  height: 100%;
+  height: 80%;
+  width: 95%;
+}
+
+.eventos1 {
+}
+
+.eventos2 {
+  display: flex;
+
+  justify-content: center;
+  align-items: flex-end;
+  height: 60%;
+  flex-direction: column;
+}
+
+.eventos3 {
+}

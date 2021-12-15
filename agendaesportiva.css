@@ -1,0 +1,45 @@
+.sessao1 {
+  margin-top: 0px;
+  color: white;
+  gap: 30px;
+  font-size: 1.5rem;
+}
+
+.agenda {
+  height: 80%;
+  width: 95%;
+}
+
+/*.agenda p{
+        /*position: absolute;*/
+
+.agenda1 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+.agenda2 {
+}
+
+.agenda3 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+.roxo {
+  width: 30%;
+  height: 60%;
+}
+
+.agenda4 {
+}
+
+.agenda h2 {
+  display: flex;
+  padding-right: 150px;
+  padding-left: 200px;
+}
